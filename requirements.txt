@@ -70,7 +70,7 @@ requests==2.21.0
 secretstorage==2.3.1      # via shuup
 setuptools-gitver==1.1.0  # via shuup-yaml
 shuup==1.8.1
-shuup-stripe
+#shuup-stripe
 shuup-yaml==1.0.1b2
 simplejson==3.16.0        # via django-rest-swagger
 six==1.12.0               # via cryptography, html5lib, keyrings-alt, python-dateutil, python-memcached, shuup
