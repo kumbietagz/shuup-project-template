@@ -74,7 +74,7 @@ shuup-stripe==0.8.6
 shuup-yaml==1.0.1b2
 simplejson==3.16.0        # via django-rest-swagger
 six==1.12.0               # via cryptography, html5lib, keyrings-alt, python-dateutil, python-memcached, shuup
-stripe==1.84.2            # via shuup-stripe
+stripe            # via shuup-stripe
 tinycss2==0.6.1           # via cairosvg, cssselect2, weasyprint
 unicodecsv==0.14.1        # via shuup
 unidecode==1.0.23         # via django-filer
