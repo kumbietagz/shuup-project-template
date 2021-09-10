@@ -4,6 +4,7 @@
 #
 --find-links wheels
 
+gunicorn==20.1.0
 asn1crypto==0.24.0        # via cryptography
 babel==2.5.3              # via shuup
 cairocffi==0.9.0          # via cairosvg, weasyprint
